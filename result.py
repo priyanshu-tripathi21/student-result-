@@ -20,3 +20,5 @@ if marks >= 40:
     print("Result: Pass")
 else:
     print("Result: Fail")
+
+print("Thank you for using the Student Result Program!")
